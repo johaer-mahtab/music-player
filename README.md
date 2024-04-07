@@ -1,1 +1,1 @@
-You'd need to create a folder called "songs" where all your songs have to be located.
+You'd need to create a folder called "songs" where all the songs have to be located.
